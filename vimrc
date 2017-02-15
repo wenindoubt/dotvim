@@ -81,6 +81,8 @@ set wrapmargin=10  " Wrap 10 characters from the edge of the window
 
 set laststatus=2   " Always show a status line
 
+set sessionoptions+=tabpages,globals " Remember tab names when you save the current session
+
 filetype plugin indent on
 "==========[ Display lines past column 80 ]==========
 highlight ColorColumn ctermfg=208 ctermbg=Black
