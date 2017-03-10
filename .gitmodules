@@ -58,3 +58,6 @@
 [submodule "bundle/python-syntax"]
 	path = bundle/python-syntax
 	url = https://github.com/hdima/python-syntax
+[submodule "bundle/vim-hashicorp-tools"]
+	path = bundle/vim-hashicorp-tools
+	url = https://github.com/hashivim/vim-hashicorp-tools.git
